@@ -50,7 +50,7 @@ int main (){
 
 void welcome(void){
     cout << "Conversor numeros en punto flotante IEEE754 de 32 bits <=> abreviacion hexadecimal" << endl;
-    cout << "Juan Ignacio Causse - 2021 - 72.03 Introduccion a la informatica" << endl;
+    cout << "Juan Ignacio Causse - 2021" << endl;
 }
 
 int menu(){
